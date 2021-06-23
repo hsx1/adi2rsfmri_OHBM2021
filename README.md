@@ -10,6 +10,10 @@
 |:chart_with_upwards_trend: Poster |[osf.io/mz2vx/](https://osf.io/mz2vx/)|
 |:woman_teacher: Presentation video|[youtu.be/NruBZIBv-WM](https://www.youtube.com/watch?v=NruBZIBv-WM)|
 
+### Acknowlegments
+
+Thanks to the shared first author, Frauke Beyer, and our co-authors, especially Veronica A. Witte and Evelyn Medawar
+
 ### Contact
 
 Hannah Sophie Heinrichs  <br>
