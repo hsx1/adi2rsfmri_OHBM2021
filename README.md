@@ -12,7 +12,7 @@
 
 ### Acknowlegments
 
-Thanks to the shared first author, Frauke Beyer, and our co-authors, especially Veronica A. Witte and Evelyn Medawar
+Thanks to the shared first author, Frauke Beyer, and our co-authors, especially A. Veronica Witte and Evelyn Medawar
 
 ### Contact
 
