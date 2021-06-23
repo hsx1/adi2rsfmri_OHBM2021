@@ -10,6 +10,8 @@
 |:chart_with_upwards_trend: Poster |[osf.io/mz2vx/](https://osf.io/mz2vx/)|
 |:woman_teacher: Presentation video|[youtu.be/NruBZIBv-WM](https://www.youtube.com/watch?v=NruBZIBv-WM)|
 
+To go back to sparkle, click here:
+[:back:](https://ohbm.sparkle.space/in/poster1418)
 ### Acknowlegments
 
 Thanks to the shared first author, Frauke Beyer, and our co-authors, especially A. Veronica Witte and Evelyn Medawar
