@@ -20,5 +20,5 @@ Thanks to the shared first author, Frauke Beyer, and our co-authors, especially 
 
 Hannah Sophie Heinrichs  <br>
 :e-mail: heinrichs@cbs.mpg.de <br>
-:bird: [@hannahsophieheinrichs](https://twitter.com/hannahsophieply) <br>
+:bird: [@hsheinrichs](https://twitter.com/hsheinrichs) <br>
 :globe_with_meridians: [https://hsx1.github.io/hannahsophieheinrichs/](https://hsx1.github.io/hannahsophieheinrichs/)
